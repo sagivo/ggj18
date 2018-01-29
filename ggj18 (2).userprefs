@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1957B882-873C-E273-7CB7-BE2633EC3956}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="159" Column="5" />
+      <File FileName="Assets/Scripts/Cell.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/Livable.cs" Line="25" Column="20" />
+      <File FileName="Assets/Scripts/PowerUp.cs" Line="10" Column="1" />
+      <File FileName="Assets/Bots/Bot/BotControl.cs" Line="8" Column="29" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="6" Column="11" />
+      <File FileName="Assets/Bots/BotManager/CreateBots.cs" Line="55" Column="16" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="30" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ggj18_220_2282_229 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
